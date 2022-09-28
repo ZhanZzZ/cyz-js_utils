@@ -1,0 +1,11 @@
+{
+  "name": "cyz-js_utils",
+  "version": "1.0.9",
+  "description": "js tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chang_yan_z",
+  "license": "ISC"
+}
